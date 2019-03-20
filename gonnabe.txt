@@ -1,0 +1,5 @@
+This is going to be a simple page where I'm planning to develop and describe my soon-to-be-standard approach to building a web-project with vanilla web-stack.
+
+It should be really short and straight-forward.
+
+I see it as a list of lists, where each item is an iteration of development and sub-items are the steps forward that should be taken in a particular order.
