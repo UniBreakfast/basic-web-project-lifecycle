@@ -1,0 +1,61 @@
+Here I ruminate on steps before adding them into index.html
+
+Step 0
+  Create GitHub repository
+  Clone it on my computer
+  Create a gonnabe.txt with the brief description of a project (<1page)
+
+Step 1
+  Make first commit/push to GitHub
+  Make a simple vector sketch.svg to illustrate the project vision
+  Make another commit/push. Do another one at the end of each Step
+
+Step 1
+  Create an index.html in project root folder as an entry point
+  Create a style.css in project root folder for basic styling
+  Create a script.js in project root folder for general page scripting
+
+
+
+
+
+...
+
+  Написать список сущностей
+
+  Пользователи
+  Сессии
+  Ресурсы (ресурс Веры в Себя)
+  Стремления, Действия, Квесты, Выполнения
+  Друзья
+  Сообщения
+  События
+  Статус-вопросы
+  Паттерны (схемы регулярности)
+
+
+  Задачи в реализации минимального функционала авторизации:
+
+  Фронтэнд
+    Перечень страниц
+      Гостевая
+      Регистрация
+      Вход
+      Главная
+      Кабинет
+    Нарисовать дизайн каждой страницы
+    Сделать вёрстку статического варианта
+    Реализовать динамическую генерацию того, что нужно динамически менять/определять
+    Обеспечить валидацию введённых в поля данных
+    Реализовать формирование запросов из ввёдённых данных на каждой странице, где это нужно
+    Написать функции-обработчики ответов сервера
+
+
+  Бэкэнд
+    Создать в базе данных таблицы пользователей/сессий
+    Написать SQL-запросы для выполнения всех необходимых при регистрации/авторизации/выходе действий
+    Автоматизировать отправку этих запросов в базу скриптами
+    Реализовать скриптами эндпоинты для принятия и обработки запросов клиента
+    Проработать стандартную форму ответов клиенту (JSON)
+    Валидация параметров запроса пользователя
+    Создать стандартное подключение к базе данных из скрипта
