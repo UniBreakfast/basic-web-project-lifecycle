@@ -16,11 +16,11 @@ ul.steps>li {
   font-size: 30px;
 }
 
-ul.steps>li>ul>li {
+ul.moves>li {
   color: burlywood;
   font-size: 18px;
   margin-bottom: 4px;
 }
-ul.steps>li>ul>li:first-child {
+ul.moves>li:first-child {
   margin-top: 8px;
 }

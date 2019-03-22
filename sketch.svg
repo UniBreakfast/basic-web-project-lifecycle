@@ -14,7 +14,7 @@
    viewBox="0 0 1600 900.00001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="sketch.svg">
   <defs
      id="defs4" />
@@ -25,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.896875"
-     inkscape:cx="700.76655"
-     inkscape:cy="396.44599"
+     inkscape:zoom="0.74666667"
+     inkscape:cx="800"
+     inkscape:cy="450"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,7 +97,8 @@
              height="100"
              width="200"
              id="rect4954" /></flowRegion><flowPara
-           id="flowPara4956">Step 0</flowPara></flowRoot>      <g
+           id="flowPara4956"
+           style="font-size:37.5px">Step 0</flowPara></flowRoot>      <g
          id="g5271">
         <flowRoot
            transform="translate(40,212.36216)"
@@ -112,7 +113,8 @@
                x="200"
                y="200"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffb380" /></flowRegion><flowPara
-             id="flowPara4956-5">Create GitHub repository</flowPara></flowRoot>        <flowRoot
+             id="flowPara4956-5"
+             style="font-size:22.5px">Create GitHub repository</flowPara></flowRoot>        <flowRoot
            transform="translate(40.000003,252.36216)"
            xml:space="preserve"
            id="flowRoot4950-9-6"
@@ -125,7 +127,8 @@
                x="200"
                y="200"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffb380" /></flowRegion><flowPara
-             id="flowPara5116">Clone it on my computer</flowPara></flowRoot>        <flowRoot
+             id="flowPara5116"
+             style="font-size:22.5px">Clone it on my computer</flowPara></flowRoot>        <flowRoot
            transform="translate(40.000003,292.36216)"
            xml:space="preserve"
            id="flowRoot4950-9-6-9"
@@ -138,7 +141,8 @@
                x="200"
                y="200"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffb380" /></flowRegion><flowPara
-             id="flowPara5116-8">Create a gonnabe.txt with the brief description of a project (&lt;1page)</flowPara></flowRoot>      </g>
+             id="flowPara5116-8"
+             style="font-size:22.5px">Create a gonnabe.txt with the brief description of a project (&lt;1page)</flowPara></flowRoot>      </g>
     </g>
     <g
        id="g5323">
@@ -170,7 +174,8 @@
                x="200"
                y="200"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffb380" /></flowRegion><flowPara
-             id="flowPara4956-5-6">Make first commit/push to GitHub</flowPara></flowRoot>        <flowRoot
+             id="flowPara4956-5-6"
+             style="font-size:22.5px">Make first commit/push to GitHub</flowPara></flowRoot>        <flowRoot
            transform="translate(40.000003,452.36216)"
            xml:space="preserve"
            id="flowRoot4950-9-3-6"
@@ -183,7 +188,8 @@
                x="200"
                y="200"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffb380" /></flowRegion><flowPara
-             id="flowPara4956-5-6-6">Make a simple vector sketch.svg to illustrate the project vision</flowPara></flowRoot>        <flowRoot
+             id="flowPara4956-5-6-6"
+             style="font-size:22.5px">Make a simple vector sketch.svg to illustrate the project vision</flowPara></flowRoot>        <flowRoot
            transform="translate(40.000003,492.36216)"
            xml:space="preserve"
            id="flowRoot4950-9-3-2"
@@ -196,7 +202,8 @@
                x="200"
                y="200"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffb380" /></flowRegion><flowPara
-             id="flowPara4956-5-6-4">Make another commit/push. Do another one at the end of each Step</flowPara></flowRoot>      </g>
+             id="flowPara4956-5-6-4"
+             style="font-size:22.5px">Make another commit/push. Do another one at the end of each Step</flowPara></flowRoot>      </g>
     </g>
     <g
        transform="translate(0,200)"
@@ -229,7 +236,8 @@
                x="200"
                y="200"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffb380" /></flowRegion><flowPara
-             id="flowPara4956-5-6-2">Create an index.html in project root folder as an entry point</flowPara></flowRoot>        <flowRoot
+             id="flowPara4956-5-6-2"
+             style="font-size:22.5px">Create an index.html in project root folder as an entry point</flowPara></flowRoot>        <flowRoot
            transform="translate(40.000003,452.36216)"
            xml:space="preserve"
            id="flowRoot4950-9-3-6-8"
@@ -242,7 +250,8 @@
                x="200"
                y="200"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffb380" /></flowRegion><flowPara
-             id="flowPara4956-5-6-6-7">Create a style.css in project root folder for basic styling</flowPara></flowRoot>        <flowRoot
+             id="flowPara4956-5-6-6-7"
+             style="font-size:22.5px">Create a style.css in project root folder for basic styling</flowPara></flowRoot>        <flowRoot
            transform="translate(40.000003,492.36216)"
            xml:space="preserve"
            id="flowRoot4950-9-3-2-8"
@@ -255,7 +264,19 @@
                x="200"
                y="200"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffb380" /></flowRegion><flowPara
-             id="flowPara4956-5-6-4-6">Create a script.js in project root folder for general page scripting</flowPara></flowRoot>      </g>
+             id="flowPara4956-5-6-4-6"
+             style="font-size:22.5px">Create a script.js in project root folder for general page scripting</flowPara></flowRoot>      </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="700"
+       y="452.36215"
+       id="text4226"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4228"
+         x="700"
+         y="452.36215">`</tspan></text>
   </g>
 </svg>
