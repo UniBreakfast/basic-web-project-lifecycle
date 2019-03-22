@@ -18,7 +18,7 @@ Step 1
 Step 2
   Define stack of technologies to be used in a project (minimal)
   Define list of distinct entities in a system (minimal)
-  List the tasks as they seem to be relevant right now (7 max on top level)
+  List the tasks that need to be done as they seem to be relevant right now (7 max on top level)
 
 
 
