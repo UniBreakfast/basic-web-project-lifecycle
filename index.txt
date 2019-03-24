@@ -20,7 +20,15 @@ Step 2
   Define list of distinct entities in a system (minimal)
   List the tasks that need to be done as they seem to be relevant right now (7 max on top level)
 
+Step 3
+  Describe general page algorytm
+  Write it in pseudocode
+  Fake it for first tests
 
+Step 4
+  If couldn't keep myself from "going with the flow", describe relevant steps I made
+  Revert changes I made
+  Redo them by written description
 
 
 ...
