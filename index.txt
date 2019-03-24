@@ -10,25 +10,33 @@ Step 1
   Make a simple vector sketch.svg to illustrate the project vision
   Make another commit/push. Do another one at the end of each Step
 
-Step 1
+Step 2
   Create an index.html in project root folder as an entry point
   Create a style.css in project root folder for basic styling
   Create a script.js in project root folder for general page scripting
 
-Step 2
+Step 3
   Define stack of technologies to be used in a project (minimal)
   Define list of distinct entities in a system (minimal)
   List the tasks that need to be done as they seem to be relevant right now (7 max on top level)
 
-Step 3
-  Describe general page algorytm
-  Write it in pseudocode
-  Fake it for first tests
-
 Step 4
+  Describe general page algorytm (simplified procedure for the first page only)
+  Write it in pseudocode
+  Fake it for the first try-testing by hand
+
+Step 5
   If couldn't keep myself from "going with the flow", describe relevant steps I made
   Revert changes I made
   Redo them by written description
 
+Step 6
+  Pick a task from the list of tasks made on a step 2
+  Split it in moves
+  And do them separately commit by commit
+
+Step 7
+  Do the same with other tasks
+  Make changes as the need arises BUT only after adding them to the tasks
 
 ...
