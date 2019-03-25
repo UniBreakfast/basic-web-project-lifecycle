@@ -7,6 +7,5 @@ fetch('index.txt')
       .reduce((str, move) => str+`<li>${move}</li>\n`, '\n')}))
     .map(step =>
       `\n<li>${step.header}\n<ul class=moves>${step.moves}</ul>\n</li>`))
-  .then(steps => {console.log(steps); return(steps)})
   .then(steps =>
     document.querySelector('.steps').innerHTML = steps.join('')+'\n')

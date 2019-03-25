@@ -39,4 +39,9 @@ Step 7
   Do the same with other tasks
   Make changes as the need arises BUT only after adding them to the tasks
 
+Step 8
+  Plan folder structure
+  Separate by easily available (pages and API), backend and off-limits (gitignore)
+  Keep calm and keep order
+
 ...
