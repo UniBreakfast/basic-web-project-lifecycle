@@ -1,13 +1,13 @@
 Here I ruminate on steps before adding them into index.html
 
 Step 0
-  Create GitHub repository
+  Create GitHub repository named accordingly
   Clone it on my computer
   Create a gonnabe.txt with the brief description of a project (<1page)
 
 Step 1
   Make first commit/push to GitHub
-  Make a simple vector sketch.svg to illustrate the project vision
+  Make a simple vector sketch (.svg or .xd) to illustrate the project vision
   Make another commit/push. Do another one at the end of each Step
 
 Step 2
@@ -18,7 +18,7 @@ Step 2
 Step 3
   Define stack of technologies to be used in a project (minimal)
   Define list of distinct entities in a system (minimal)
-  List the tasks that need to be done as they seem to be relevant right now (7 max on top level)
+  List the tasks that need to be done with current vision in mind (7 max on top level)
 
 Step 4
   Describe general page algorytm (simplified procedure for the first page only)
@@ -33,7 +33,7 @@ Step 5
 Step 6
   Pick a task from the list of tasks made on a step 2
   Split it in moves
-  And do them separately commit by commit
+  And do them separately, commit by commit
 
 Step 7
   Do the same with other tasks
