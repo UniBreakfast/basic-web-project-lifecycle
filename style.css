@@ -25,3 +25,8 @@ ul.moves>li {
 }
 
 ul.moves>li:first-child { margin-top: 1rem }
+
+a {
+  position: fixed;
+  color: burlywood;
+}
