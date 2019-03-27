@@ -28,5 +28,10 @@ ul.moves>li:first-child { margin-top: 1rem }
 
 a {
   position: fixed;
-  color: burlywood;
+  color: #33291b;
+  top: 0;
+  left: 0;
+}
+a:visited {
+  color: #33291b;
 }
