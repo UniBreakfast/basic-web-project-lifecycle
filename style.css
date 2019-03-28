@@ -29,7 +29,15 @@ ul.moves>li:first-child { margin-top: 1rem }
 a {
   position: fixed;
   color: #33291b;
-  top: 0;
-  left: 0;
+  bottom: .5rem;
+  right: .5rem;
+  padding: .3rem;
+  border: solid #33291b 2px;
+  text-decoration: none;
 }
 a:visited { color: #33291b }
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
